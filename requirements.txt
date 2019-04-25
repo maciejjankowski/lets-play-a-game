@@ -1,0 +1,6 @@
+zeroconf
+redis
+pymongo==3.4.0
+requests
+python-rtmidi
+psycopg2
