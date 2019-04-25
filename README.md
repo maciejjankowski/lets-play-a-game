@@ -2,8 +2,7 @@
 
 ## So this is a multilevel game, where one level leads to another one and you can't finish it without completing the previous one (it contains critical data, like password, or access token, anything)
 
-0. Prerequisites
-  1. python3.6, virtualenv, ipython, pip install requirements 
+0. Prerequisites: python3.6, virtualenv, ipython, clone the repo and run `pip install requirements.txt`
 1. Quest1: Find the server with zeroconf
 2. Quest2: HTTP Request for The Redis Key
 3. Quest3: Find Redis Value before time runs out (the key expires in 30 minutes!)
